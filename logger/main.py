@@ -1,4 +1,3 @@
-"""In this file the service will be started with an WSGI server"""
 import logging.config
 
 from logger import logging_config
